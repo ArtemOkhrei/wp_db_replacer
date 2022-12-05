@@ -4,10 +4,10 @@
     // It does not require wp-load.php
 
     // Database Settings from wp-config.php
-    $host = '127.0.0.1';
-    $usr  = 'mcnowkmy_locksto';
-    $pwd  = 'r0$x6il{{r}g';
-    $db   = 'mcnowkmy_lockstock_db_2';
+    $host = '';
+    $usr  = '';
+    $pwd  = '';
+    $db   = '';
 
 
     // Replace options
